@@ -1,0 +1,31 @@
+div.container #P1 .span2{
+    font-style: italic;
+
+}
+
+
+.zagolovok a{
+    text-decoration:none;
+
+}
+.zagolovok span{
+    text-decoration:underline;
+}
+
+
+
+div.container #P2 .span3{
+    text-decoration: underline ;
+    text-decoration-color: crimson;
+}
+
+
+/*div.container p:nth-child(2) {*/
+    div.container #P1{
+        font-weight: 900;
+    }
+    /*div.container p:last-child {*/
+        div.container #P2{
+        font-style: italic;
+    }
+    

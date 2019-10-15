@@ -1,0 +1,30 @@
+.first-list{
+    list-style-type: none;
+}
+
+.first-list li:nth-child(n):before{
+content:'.';
+margin-right:50px;
+}
+
+
+
+.second-list{
+    list-style-type: none; 
+}
+
+.second-list li:nth-child(n):before{
+
+content:'§'; 
+}
+
+/*div.container p:first-child {*/
+div.container .ordinary {    
+    font-weight: 700;
+}
+
+    div.container .ordinary .span1{
+        color: green;
+    
+    }
+
